@@ -4,3 +4,8 @@ a simple tool made in python3 for obtaining hypesquad badge. as discord removed 
 <p align="center">
   <img src="assets/screenshot.png" alt="Screenshot" width="600">
 </p>
+
+**MUST RUN IN TERMINAL**
+```bash
+pip install -r requirements.txt
+```
