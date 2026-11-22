@@ -9,3 +9,6 @@ a simple tool made in python3 for obtaining hypesquad badge. as discord removed 
 ```bash
 pip install -r requirements.txt
 ```
+```bash
+python main.py
+```
